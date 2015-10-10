@@ -155,7 +155,6 @@ public class HomeFragment extends Fragment {
     }
 
 
-
     private void onClick() {
 
         googleMap.setOnCameraChangeListener(new GoogleMap.OnCameraChangeListener() {
